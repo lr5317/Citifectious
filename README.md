@@ -17,3 +17,7 @@ https://citifectious.shinyapps.io/UIMA/
             viii) Summary all 
 
 
+
+<img width="1279" alt="Citifectious_4" src="https://user-images.githubusercontent.com/13500206/138982233-234d709b-c456-4843-91b6-da5c8d239eaa.png">
+
+
